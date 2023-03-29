@@ -51,7 +51,7 @@ To see how you can add code snippets, see below:
 ### Useful resources
 - [Figma](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 ## Author
-- Frontend Mentor - [@Vishal Maurya](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Vishal Maurya](https://www.frontendmentor.io/profile/VishalMauryastp)
 ## Acknowledgments
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
