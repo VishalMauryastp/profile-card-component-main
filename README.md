@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![Desktop View](./images/screenshot/Screenshot%20dekstop.png)
 ![Mobile View](./images/screenshot/Screenshot%20mobile.png)
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Solution](https://github.com/VishalMauryastp/profile-card-component-main.git)
+- Live Site URL: [Preview](https://vishalmauryastp.github.io/profile-card-component-main/)
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
@@ -51,9 +51,7 @@ To see how you can add code snippets, see below:
 ### Useful resources
 - [Figma](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 ## Author
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Vishal Maurya](https://www.frontendmentor.io/profile/yourusername)
 ## Acknowledgments
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
